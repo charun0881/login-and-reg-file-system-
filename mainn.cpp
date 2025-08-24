@@ -178,7 +178,7 @@ void forgot()
                         }
                         else
                         {
-                                cout<<"Sorry, We cannot found your password in our database \n";
+                                cout<<"Sorry, We cannot find your password in our database \n";
                                 cout<<"\nkindly contact your administrator for more information\n";
                                 cin.get();
                                 cin.get();
@@ -198,4 +198,5 @@ void forgot()
                         forgot();
         }
 }
+
 
